@@ -9,7 +9,7 @@ package myfirstproject;
 
  @author EMAM
  */
-public class DataTypesAndVariables {
+public class MyFirstProject {
 
       /**
        @param args the command line arguments
